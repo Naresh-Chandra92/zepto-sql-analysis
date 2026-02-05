@@ -1,4 +1,10 @@
-
+/* =========================================================
+ZEPTO FULL SQL ANALYSIS SCRIPT
+Author: Naresh Chandra
+This file contains the full logic for all 20+ business 
+questions addressed in this project.
+=========================================================
+*/
 ### 6️⃣ ADVANCED SQL ANALYSIS
 
 #### Window Functions - Product Ranking
